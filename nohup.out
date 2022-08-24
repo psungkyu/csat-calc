@@ -1,0 +1,15 @@
+2022-08-23 09:17:27.612 INFO    botocore.credentials: Found credentials in shared credentials file: ~/.aws/credentials
+2022-08-23 09:17:27.720 
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run Home.py [ARGUMENTS]
+seonggyu
+Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+Try 'streamlit run --help' for help.
+
+Error: Invalid value: File does not exist: app.py
+Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+Try 'streamlit run --help' for help.
+
+Error: Invalid value: File does not exist: app.py
